@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Codesoft_task2 {
+public class Codsoft_task2 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -38,4 +38,5 @@ public class Codesoft_task2 {
 
         scanner.close();
     }
+
 }
