@@ -70,7 +70,7 @@ class ATM {
     }
 }
 
-public class Codesoft_task3 {
+public class Codsoft_task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -88,4 +88,5 @@ public class Codesoft_task3 {
             atm.performTransaction(choice, scanner);
         }
     }
+
 }
