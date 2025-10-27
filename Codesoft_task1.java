@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Codesoft_task1 {
+public class Codsoft_task1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -58,4 +58,5 @@ public class Codesoft_task1 {
         
         scanner.close();
     }
+
 }
